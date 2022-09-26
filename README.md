@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogigupta03
+- 👋 Hi, I’m yogi gupta
 - 👀 I’m interested in Python Programming 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to colaborate for learning new things
